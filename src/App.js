@@ -1,11 +1,14 @@
 // import logo from './logo.svg';
 import './App.css';
+import Navbar from './components/common_pages/Navbar';
+import TopNotificationBar from './components/common_pages/TopNotificationBar';
 
 function App() {
   return (
-    <div className="App">
-      <h1 className="text-3xl font-bold underline">Tele shop</h1>
-    </div>
+    <>
+      <TopNotificationBar />
+      <Navbar />
+    </>
   );
 }
 
