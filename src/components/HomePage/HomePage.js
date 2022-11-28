@@ -1,5 +1,6 @@
 import React from 'react';
 import Banner from './Banner';
+import OfferCardSection from './OfferCardSection';
 import OptionCategory from './OptionCategory';
 
 const HomePage = () => {
@@ -7,6 +8,7 @@ const HomePage = () => {
         <>
             <Banner />
             <OptionCategory />
+            <OfferCardSection />
         </>
     );
 };
