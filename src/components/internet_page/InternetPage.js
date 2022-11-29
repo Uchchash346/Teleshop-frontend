@@ -11,7 +11,7 @@ const InternetPage = () => {
     }, [])
     return (
         <Fragment>
-            <div class="grid grid-cols-3 gap-4 py-11 mx-auto container max-w-5xl">
+            <div class="grid grid-cols-1 lg:grid-cols-3 md:grid-cols-2 gap-4 py-11 px-5 mx-auto container max-w-5xl">
                 {
                     netPackages.map((data, index) => {
                         return (
