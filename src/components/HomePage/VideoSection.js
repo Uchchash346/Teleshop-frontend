@@ -5,11 +5,11 @@ const VideoSection = () => {
     return (
         <>
             <div class="flex h-96">
-                <div class="w-1/3 bg-[#71BD44]">
-                    <p className='py-auto'>Enjoy the best deals</p>
+                <div class="relative w-1/2 bg-[#71BD44]">
+                    <p className='absolute text-5xl top-2/4 left-1/4 text-white'>Enjoy the best deals with Teleshop</p>
                 </div>
-                <div class="w-2/3">
-                <video src={demo_video}controls />
+                <div class="w-1/2">
+                <video src={demo_video} controls />
                 </div>
             </div>
         </>
