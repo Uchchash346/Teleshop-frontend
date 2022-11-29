@@ -5,6 +5,7 @@ import LatestDevices from './LatestDevices';
 import OfferBanner from './OfferBanner';
 import OfferCardSection from './OfferCardSection';
 import OptionCategory from './OptionCategory';
+import QRCodeSection from './QRCodeSection';
 import VideoSection from './VideoSection';
 
 const HomePage = () => {
@@ -17,6 +18,7 @@ const HomePage = () => {
             <EmergencyContact />
             <LatestDevices />
             <OfferBanner />
+            <QRCodeSection />
         </>
     );
 };
