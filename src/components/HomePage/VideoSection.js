@@ -9,7 +9,7 @@ const VideoSection = () => {
                     <p className='absolute text-5xl top-1/3 left-1/4 text-white'>Enjoy the best deals with Teleshop</p>
                 </div>
                 <div class="w-1/2">
-                    <video src={demo_video} controls />
+                    <video src={demo_video} controls autoPlay muted />
                 </div>
             </div>
         </>
