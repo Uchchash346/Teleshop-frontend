@@ -1,0 +1,326 @@
+[
+    {
+        "id": 1,
+        "net": "6 GB",
+        "amount": 127,
+        "duration": "unlimited",
+        "code": "*111*127#",
+        "description": [
+            "Please click the Buy Now button",
+            "Prepaid and Post Paid both will use this package",
+            "Included charge for all offer packages"
+        ]
+    },
+    {
+        "id": 2,
+        "net": "26 GB",
+        "amount": 127,
+        "duration": "unlimited",
+        "code": "*111*309#",
+        "description": [
+            "Please click the Buy Now button",
+            "Prepaid and Post Paid both will use this package",
+            "Included charge for all offer packages"
+        ]
+    },
+    {
+        "id": 3,
+        "net": "100MB",
+        "amount": 127,
+        "duration": "3 days",
+        "code": "*111*501#",
+        "description": [
+            "Please click the Buy Now button",
+            "Prepaid and Post Paid both will use this package",
+            "Included charge for all offer packages"
+        ]
+    },
+    {
+        "id": 4,
+        "net": "500MB",
+        "amount": 127,
+        "duration": "30 days",
+        "code": "*111*503#",
+        "description": [
+            "Please click the Buy Now button",
+            "Prepaid and Post Paid both will use this package",
+            "Included charge for all offer packages"
+        ]
+    },
+    {
+        "id": 5,
+        "net": "1 GB",
+        "amount": 127,
+        "duration": "7 days",
+        "code": "*111*27#",
+        "description": [
+            "Please click the Buy Now button",
+            "Prepaid and Post Paid both will use this package",
+            "Included charge for all offer packages"
+        ]
+    },
+    {
+        "id": 6,
+        "net": "1 GB",
+        "amount": 127,
+        "duration": "3 days",
+        "code": "*111*534#",
+        "description": [
+            "Please click the Buy Now button",
+            "Prepaid and Post Paid both will use this package",
+            "Included charge for all offer packages"
+        ]
+    },
+    {
+        "id": 7,
+        "net": "500MB",
+        "amount": 127,
+        "duration": "7 days",
+        "code": "*111*127#",
+        "description": [
+            "Please click the Buy Now button",
+            "Prepaid and Post Paid both will use this package",
+            "Included charge for all offer packages"
+        ]
+    },
+    {
+        "id": 8,
+        "net": "1 GB",
+        "amount": 127,
+        "duration": "30 days",
+        "code": "*111*309#",
+        "description": [
+            "Please click the Buy Now button",
+            "Prepaid and Post Paid both will use this package",
+            "Included charge for all offer packages"
+        ]
+    },
+    {
+        "id": 9,
+        "net": "2 GB",
+        "amount": 127,
+        "duration": "30 days",
+        "code": "*111*501#",
+        "description": [
+            "Please click the Buy Now button",
+            "Prepaid and Post Paid both will use this package",
+            "Included charge for all offer packages"
+        ]
+    },
+    {
+        "id": 10,
+        "net": "3 GB",
+        "amount": 127,
+        "duration": "3 days",
+        "code": "*111*503#",
+        "description": [
+            "Please click the Buy Now button",
+            "Prepaid and Post Paid both will use this package",
+            "Included charge for all offer packages"
+        ]
+    },
+    {
+        "id": 11,
+        "net": "3 GB",
+        "amount": 127,
+        "duration": "30 days",
+        "code": "*111*27#",
+        "description": [
+            "Please click the Buy Now button",
+            "Prepaid and Post Paid both will use this package",
+            "Included charge for all offer packages"
+        ]
+    },
+    {
+        "id": 12,
+        "net": "4 GB",
+        "amount": 127,
+        "duration": "7 days",
+        "code": "*111*534#",
+        "description": [
+            "Please click the Buy Now button",
+            "Prepaid and Post Paid both will use this package",
+            "Included charge for all offer packages"
+        ]
+    },
+    {
+        "id": 13,
+        "net": "5 GB",
+        "amount": 127,
+        "duration": "7 days",
+        "code": "*111*127#",
+        "description": [
+            "Please click the Buy Now button",
+            "Prepaid and Post Paid both will use this package",
+            "Included charge for all offer packages"
+        ]
+    },
+    {
+        "id": 14,
+        "net": "5 GB",
+        "amount": 127,
+        "duration": "30 days",
+        "code": "*111*309#",
+        "description": [
+            "Please click the Buy Now button",
+            "Prepaid and Post Paid both will use this package",
+            "Included charge for all offer packages"
+        ]
+    },
+    {
+        "id": 15,
+        "net": "10 GB",
+        "amount": 127,
+        "duration": "30 days",
+        "code": "*111*501#",
+        "description": [
+            "Please click the Buy Now button",
+            "Prepaid and Post Paid both will use this package",
+            "Included charge for all offer packages"
+        ]
+    },
+    {
+        "id": 16,
+        "net": "12 GB",
+        "amount": 127,
+        "duration": "15 days",
+        "code": "*111*503#",
+        "description": [
+            "Please click the Buy Now button",
+            "Prepaid and Post Paid both will use this package",
+            "Included charge for all offer packages"
+        ]
+    },
+    {
+        "id": 17,
+        "net": "20 GB",
+        "amount": 127,
+        "duration": "15 days",
+        "code": "*111*27#",
+        "description": [
+            "Please click the Buy Now button",
+            "Prepaid and Post Paid both will use this package",
+            "Included charge for all offer packages"
+        ]
+    },
+    {
+        "id": 18,
+        "net": "25 GB",
+        "amount": 127,
+        "duration": "15 days",
+        "code": "*111*534#",
+        "description": [
+            "Please click the Buy Now button",
+            "Prepaid and Post Paid both will use this package",
+            "Included charge for all offer packages"
+        ]
+    },
+    {
+        "id": 19,
+        "net": "30 GB",
+        "amount": 127,
+        "duration": "30 days",
+        "code": "*111*127#",
+        "description": [
+            "Please click the Buy Now button",
+            "Prepaid and Post Paid both will use this package",
+            "Included charge for all offer packages"
+        ]
+    },
+    {
+        "id": 20,
+        "net": "45 GB",
+        "amount": 127,
+        "duration": "15 days",
+        "code": "*111*309#",
+        "description": [
+            "Please click the Buy Now button",
+            "Prepaid and Post Paid both will use this package",
+            "Included charge for all offer packages"
+        ]
+    },
+    {
+        "id": 21,
+        "net": "1 GB",
+        "amount": 127,
+        "duration": "30 days",
+        "code": "*111*501#",
+        "description": [
+            "Please click the Buy Now button",
+            "Prepaid and Post Paid both will use this package",
+            "Included charge for all offer packages"
+        ]
+    },
+    {
+        "id": 22,
+        "net": "3 GB",
+        "amount": 127,
+        "duration": "3 days",
+        "code": "*111*503#",
+        "description": [
+            "Please click the Buy Now button",
+            "Prepaid and Post Paid both will use this package",
+            "Included charge for all offer packages"
+        ]
+    },
+    {
+        "id": 23,
+        "net": "4 GB",
+        "amount": 127,
+        "duration": "15 days",
+        "code": "*111*27#",
+        "description": [
+            "Please click the Buy Now button",
+            "Prepaid and Post Paid both will use this package",
+            "Included charge for all offer packages"
+        ]
+    },
+    {
+        "id": 24,
+        "net": "20 GB",
+        "amount": 127,
+        "duration": "17 days",
+        "code": "*111*534#",
+        "description": [
+            "Please click the Buy Now button",
+            "Prepaid and Post Paid both will use this package",
+            "Included charge for all offer packages"
+        ]
+    },
+    {
+        "id": 25,
+        "net": "30 GB",
+        "amount": 127,
+        "duration": "3 days",
+        "code": "*111*127#",
+        "description": [
+            "Please click the Buy Now button",
+            "Prepaid and Post Paid both will use this package",
+            "Included charge for all offer packages"
+        ]
+    },
+    {
+        "id": 26,
+        "net": "25 GB",
+        "amount": 127,
+        "duration": "10 days",
+        "code": "*111*309#",
+        "description": [
+            "Please click the Buy Now button",
+            "Prepaid and Post Paid both will use this package",
+            "Included charge for all offer packages"
+        ]
+    },
+    {
+        "id": 27,
+        "net": "45 GB",
+        "amount": 127,
+        "duration": "30 days",
+        "code": "*111*501#",
+        "description": [
+            "Please click the Buy Now button",
+            "Prepaid and Post Paid both will use this package",
+            "Included charge for all offer packages"
+        ]
+    }
+]
