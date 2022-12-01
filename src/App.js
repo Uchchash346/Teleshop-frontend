@@ -20,7 +20,7 @@ function App() {
         <Route path="/internet" element={<InternetPage />} />
       </Routes>
       <Routes>
-        <Route path="*" element={<ErrorPage />} />
+        {/* <Route path="/*" element={<ErrorPage />} /> */}
       </Routes>
       <Footer />
     </>

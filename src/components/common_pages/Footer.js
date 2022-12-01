@@ -10,7 +10,7 @@ const Footer = () => {
                     <div class="grid grid-cols-1 gap-8 lg:grid-cols-3">
                         <div>
                             <div class="">
-                                <img src="https://i.ibb.co/7RqVf3R/Untitled-design-200x150.png" alt="" />
+                                <img src="https://i.ibb.co/SQv9qC4/Teleshop-Logo2-2.png" alt="" />
                             </div>
 
                             <p class="max-w-xs mt-4 text-gray-500">
