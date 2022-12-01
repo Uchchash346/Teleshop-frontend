@@ -15,12 +15,8 @@ function App() {
       <Navbar />
       <Routes>
         <Route path="/" element={<HomePage />} />
-      </Routes>
-      <Routes>
         <Route path="/internet" element={<InternetPage />} />
-      </Routes>
-      <Routes>
-        {/* <Route path="/*" element={<ErrorPage />} /> */}
+        <Route path="/*" element={<ErrorPage />} />
       </Routes>
       <Footer />
     </>
