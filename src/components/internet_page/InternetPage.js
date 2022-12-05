@@ -19,6 +19,7 @@ const InternetPage = () => {
                                 <p className='text-center text-3xl font-semibold'>{data.net}</p>
                                 <p className='text-center font-medium'>Amount: {data.amount} Tk</p>
                                 <p className='text-center'>Duration: {data.duration}</p>
+                                <p className='text-center'>Package: {data.package_type}</p>
                                 <p className='text-center'>Code: {data.code}</p>
                                 <button className='mt-5 mx-20 border-2 rounded-full w-28 border-[#71BD44] hover:bg-[#71BD44]' type="">Buy Now</button>
                             </div>
