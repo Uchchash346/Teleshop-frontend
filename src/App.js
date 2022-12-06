@@ -5,6 +5,7 @@ import ErrorPage from './components/common_pages/ErrorPage';
 import Footer from './components/common_pages/Footer';
 import Navbar from './components/common_pages/Navbar';
 import TopNotificationBar from './components/common_pages/TopNotificationBar';
+import Contact from './components/contact_page/Contact';
 import HomePage from './components/HomePage/HomePage';
 import InternetPage from './components/internet_page/InternetPage';
 
@@ -16,6 +17,7 @@ function App() {
       <Routes>
         <Route path="/" element={<HomePage />} />
         <Route path="/internet" element={<InternetPage />} />
+        <Route path="/contact-us" element={<Contact />} />
         <Route path="/*" element={<ErrorPage />} />
       </Routes>
       <Footer />
