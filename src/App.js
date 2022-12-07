@@ -9,6 +9,7 @@ import Contact from './components/contact_page/Contact';
 import CustomerSupport from './components/customer_support/CustomerSupport';
 import HomePage from './components/HomePage/HomePage';
 import InternetPage from './components/internet_page/InternetPage';
+import Teleplan from './components/teleplan/Teleplan';
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
       <Routes>
         <Route path="/" element={<HomePage />} />
         <Route path="/internet" element={<InternetPage />} />
+        <Route path="/teleplan" element={<Teleplan />} />
         <Route path="/contact-us" element={<Contact />} />
         <Route path="/customer-support" element={<CustomerSupport />} />
         <Route path="/*" element={<ErrorPage />} />

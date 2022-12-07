@@ -12,8 +12,8 @@ const CustomerSupport = () => {
     }, [])
     return (
         <Fragment>
-            <div className='container mx-auto max-w-6xl pt-10'>
-                <div class="w-10/12">
+            <div className='container mx-auto max-w-3xl lg:max-w-6xl md:max-w-4xl pt-10'>
+                <div class="w-32 lg:w-10/12 md:w-96">
                     <table class="w-full text-sm text-left text-gray-500 dark:text-gray-400 ">
                         <thead class="text-xs text-gray-900 uppercase dark:text-gray-400">
                             <tr>
